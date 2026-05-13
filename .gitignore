@@ -1,0 +1,4 @@
+# All the local files that u donot want ot pish into git will be added to this file 
+# ! Note only ever pusht the code files to github donot push other files 
+# Examples
+# DONOT PUSH: Large.exe, something_big.zip etc
