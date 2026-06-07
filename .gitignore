@@ -3,3 +3,6 @@
 # Examples
 # DONOT PUSH: Large.exe, something_big.zip etc
 .simplegit
+__pycache__
+venv
+*.exe
