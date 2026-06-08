@@ -1,6 +1,8 @@
 # SimpleGit
 
 A lightweight educational version control system built with Python and PyQt6.
+
+--- 
 Website Link: [https://razamindset.github.io/simplegit](https://razamindset.github.io/simplegit)
 ---
 
