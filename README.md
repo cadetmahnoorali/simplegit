@@ -21,6 +21,18 @@ Instead, it is a learning-focused snapshot management system.
 
 ---
 
+# Screenshots
+
+## Main Dashboard
+
+![SimpleGit main dashboard](assets/mainhome.png)
+
+## Choose Project
+
+![SimpleGit choose project screen](assets/choose-project.png)
+
+---
+
 # Main Features
 
 ## Current Features
